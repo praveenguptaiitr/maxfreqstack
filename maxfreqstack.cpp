@@ -1,7 +1,11 @@
 using namespace std;
 #include<unordered_map>
 #include<stack>
-
+#include <iostream>
+#include <stdio.h>
+#include <pthread.h>
+#include <sys/time.h>
+#include <unistd.h>
 
 /**
  * Your FreqStack object will be instantiated and called as such:
